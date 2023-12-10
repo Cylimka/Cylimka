@@ -1,16 +1,19 @@
-### Hi there 👋
+### Привет, я Алексей 👋
 
-<!--
-**Cylimka/Cylimka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Технический стек
+* Язык программирования Python
+* pandas, numpy, matplotlib, seaborn, sklearn
+* LightGBM, CatBoost, XGBoost
+* PyTorch, Keras, ResNet
+* A/B тестирование
+* PostgreSQL, PySpark, SQL
+* Git, GitHub
+### ⚡ Умения
+* Умение донести свою идею
+* Критическое мышление
+* Умение видеть коммерческую сторону вопроса
+* Умение работать на износ
+### Курсы:
+| Название курса  | Форма обучения  | Статус | Проекты |
+|:-------------   |:---------------:| -------------:| -------------:|
+| [Курс «Специалист по Data Science»](https://practicum.yandex.ru/data-scientist/) | Дистанционная       | Завершен        | [Проекты](https://github.com/Cylimka/Yandex_Practicum) |
