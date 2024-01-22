@@ -2,8 +2,9 @@
 
 ### 🛠 Технический стек
 * Язык программирования Python
-* pandas, numpy, matplotlib, seaborn, sklearn
-* LightGBM, CatBoost, XGBoost
+* pandas, numpy
+* matplotlib, seaborn, streamlit
+* sklearn, LightGBM, CatBoost, XGBoost
 * PyTorch, Keras, ResNet
 * A/B тестирование
 * PostgreSQL, PySpark, SQL
